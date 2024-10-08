@@ -10,6 +10,7 @@ Later, I started learning **Python** 🐍 on my own; it's easy when you know how
 
 And today, I’m taking a cybersecurity course to complement my ASIR studies.
 
+
 # Español
 
 Hey chicos, soy **@SataNico**, pero podeis llamarme *Nico* or *Nicolás*.
@@ -22,6 +23,8 @@ Más tarde, aprendí Python **Python** 🐍 por mi cuenta; es fácil cuando sabe
 
 Y ahora, estoy haciendo un curso de ciberseguridad para complementar el curso de ASIR
 
-That's my right now / Ese soy yo ahora mismo
+ ⬇️That's my right now / Ese soy yo ahora mismo⬇️
 
-![Place_Holder](./Hackerman.jpeg)
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/779eaa2d-fed8-4eff-8280-592e80ccf0ab" alt="HackerMan_png" width="300">
+</div>
