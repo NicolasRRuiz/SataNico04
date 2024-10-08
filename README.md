@@ -2,7 +2,7 @@
 
 Hi guys, i'm **@SataNico04**, but you can call me *Nico* or *Nicolás*.
 
-Since I was **16***, I've been interested in programming, and my first language was Pseint hehe 😰.
+Since I was **16**, I've been interested in programming, and my first language was Pseint hehe 😰.
 In high school, I learned the basics of programming, conditions, loops, functions...
 Later, I started learning **Python** 🐍 on my own; it's easy when you know how to search for information.
 
