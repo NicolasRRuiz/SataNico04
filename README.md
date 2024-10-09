@@ -13,7 +13,7 @@ And today, I’m taking a cybersecurity course to complement my ASIR studies.
 
 # Español
 
-Hey chicos, soy **@SataNico**, pero podeis llamarme *Nico* or *Nicolás*.
+Hey chicos, soy **@SataNico04**, pero podeis llamarme *Nico* or *Nicolás*.
 
 Desde que tenía **16**, estoy interesado en la programación, y mi primer lenguaje fue Pseint jeje 😰.
 En bachiller, aprendí lo básico en programación, condiciones, bucles, funciones...
