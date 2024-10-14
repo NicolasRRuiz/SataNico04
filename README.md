@@ -23,7 +23,7 @@ Más tarde, aprendí **Python** 🐍 por mi cuenta; es fácil cuando sabes donde
 
 Y ahora, estoy haciendo un curso de ciberseguridad para complementar el curso de ASIR
 
- ⬇️That's my right now / Ese soy yo ahora mismo⬇️
+ ⬇️That's me right now / Ese soy yo ahora mismo⬇️
 
 <div style="text-align: center;">
   <img src="https://github.com/user-attachments/assets/779eaa2d-fed8-4eff-8280-592e80ccf0ab" alt="HackerMan_png" width="300">
