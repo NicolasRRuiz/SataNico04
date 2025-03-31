@@ -17,9 +17,3 @@
 ### 🚀 Repositorios que molan
 
 - 🔐 [Ciberseguridad](https://github.com/SataNico04/Ciberseguridad)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SataNico04&show_icons=true&theme=tokyonight" alt="@SataNico04 GitHub stats"/>
-</p>
