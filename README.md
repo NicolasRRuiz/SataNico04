@@ -1,7 +1,7 @@
 <h1 align="center">¡Buenas, gente! 👋</h1>
 
 <p align="center">
-  Soy <strong>@SataNico04</strong>, aunque podéis llamarme <em>Nico</em> o <em>Nicolás</em>.
+  Soy <strong>@NicolasRRuiz</strong>, aunque podéis llamarme <em>Nico</em> o <em>Nicolás</em>.
 </p>
 
 ---
