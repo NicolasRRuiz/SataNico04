@@ -16,6 +16,6 @@
 
 ### 🚀 Repositorios que molan
 
-- 🔐 [Ciberseguridad](https://github.com/SataNico04/Ciberseguridad)
+- 🔐 [Ciberseguridad](https://github.com/Log4Nico/Ciberseguridad)
 
-- 🌐 [AWS](https://github.com/SataNico04/Proyecto_AWS_ASIR)
+- 🌐 [AWS](https://github.com/Log4Nico/Proyecto_AWS_ASIR)
